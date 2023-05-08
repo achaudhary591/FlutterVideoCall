@@ -1,0 +1,35 @@
+{
+    "name": "flutter_video_call",
+    "short_name": "flutter_video_call",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "In this video, we'll be creating a simple 1 on 1 Video Call app using ZegoCloud.  ZEGOCLOUD is a global cloud communication service provider that was founded in June 2015. ZEGOCLOUD enables enterprises and developers to easily and quickly obtain real-time audio and video communication capabilities by integrating a single SDK, and enjoy smooth, reliable audio and video experiences with high quality even in the weak network conditions.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
